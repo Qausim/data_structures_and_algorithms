@@ -1,5 +1,5 @@
 // const {Stack} = require('stack');
-const {Stack} = require('./stack');
+const {Stack} = require('./data_structures/stack');
 
 const isPalindrome = (str) => {
     const letterStack = new Stack();
