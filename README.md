@@ -1,4 +1,3 @@
 # Data Structures and Algorithms
 
-A repository of various data structures and algorithms written in the
-Javascript language.
+A repository containing implementations of various data structures and algorithms
